@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @gautam-mh
-- 👀 I’m interested in contributing to as many opensource projects as I can
+- 👋 Hi, I’m Gautam M H
+- 👀 I’m interested in opensource project contributions
 - 🌱 I’m currently learning Python, Java, HTML, CSS, Javascript
 - 📫 How to reach me www.linkedin.com/in/gautam-m-hiremath-4a319a251
 
