@@ -1,3 +1,5 @@
+<!-- My Profile -->
+
 # About Me
 
 I am a highly motivated and ambitious individual with a strong passion for technology and a focus on software development. I am skilled in various areas, including Android app development, blockchain integration, and web development. With a commitment to excellence and a drive for continuous learning, I strive to deliver innovative solutions and contribute to impactful projects.
