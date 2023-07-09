@@ -7,10 +7,10 @@ I am a highly motivated and ambitious individual with a strong passion for techn
 ## Skills
 
 - Android app development (Java, Kotlin)
+- Web development (HTML, CSS, JavaScript)
+- Python programming
 - React and React Native
 - Blockchain integration (Ethereum, Ethers)
-- Python programming
-- Web development (HTML, CSS, JavaScript)
 
 ## Contact
 
