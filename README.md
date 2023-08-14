@@ -1,26 +1,18 @@
-<!-- My Profile -->
-
-# About Me
-
+# 💫 About Me:
 I am a highly motivated and ambitious individual with a strong passion for technology and a focus on software development. I am skilled in various areas, including Android app development, blockchain integration, and web development. With a commitment to excellence and a drive for continuous learning, I strive to deliver innovative solutions and contribute to impactful projects.
 
-## Skills
 
-- Android app development (Java, Kotlin)
-- Web development (HTML, CSS, JavaScript)
-- Python programming
-- React and React Native
-- Blockchain integration (Ethereum, Ethers)
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gautamhiremath) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Godsuya) 
 
-## Contact
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=plastic&logo=kotlin&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=plastic&logo=android&logoColor=%a4c639) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=gautam-mh&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=gautam-mh&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gautam-mh&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-Thank you for visiting my GitHub profile! If you have any questions, inquiries, or collaboration opportunities, please feel free to reach out to me at [gautammhiremath@gmail.com](mailto:gautammhiremath@gmail.com). I am always excited to connect with like-minded individuals and explore new possibilities in the world of technology.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
 
-Let's innovate and create together!
-
-
-<a href="https://www.linkedin.com/in/gautamhiremath/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=gautammhiremath)](https://github.com/gautam-mh/github-readme)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
