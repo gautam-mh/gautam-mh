@@ -18,4 +18,9 @@ Thank you for visiting my GitHub profile! If you have any questions, inquiries, 
 
 Let's innovate and create together!
 
-<img src="https://github-profile-trophy.vercel.app/?username=gautam-mh&theme=juicyfresh&no-bg=true" />
+
+<a href="https://www.linkedin.com/in/gautamhiremath/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=gautammhiremath)](https://github.com/gautam-mh/github-readme)
