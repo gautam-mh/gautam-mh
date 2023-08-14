@@ -17,3 +17,5 @@ I am a highly motivated and ambitious individual with a strong passion for techn
 Thank you for visiting my GitHub profile! If you have any questions, inquiries, or collaboration opportunities, please feel free to reach out to me at [gautammhiremath@gmail.com](mailto:gautammhiremath@gmail.com). I am always excited to connect with like-minded individuals and explore new possibilities in the world of technology.
 
 Let's innovate and create together!
+
+<img src="https://github-profile-trophy.vercel.app/?username=gautam-mh&theme=juicyfresh&no-bg=true" />
