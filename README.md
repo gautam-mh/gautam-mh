@@ -13,5 +13,3 @@ I am a highly motivated and ambitious individual with a strong passion for techn
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
