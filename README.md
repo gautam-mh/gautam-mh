@@ -11,5 +11,8 @@ I am a highly motivated and ambitious individual with a strong passion for techn
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gautam-mh&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gautam-mh&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+# LeetCode Stats
+![LeetCode Stats](https://leetcode.card.workers.dev/gautammhiremath?theme=dark&font=baloo&extension=null)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
