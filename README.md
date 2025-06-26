@@ -1,4 +1,4 @@
-# Hi there, I'm Gautam M Hiremath! 👋 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gautamhiremath) [![GitHub followers](https://img.shields.io/github/followers/gautam-mh?label=Follow&style=social)](https://github.com/gautam-mh)
+# Hi there, I'm Gautam M Hiremath! 👋 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gautamhiremath) [![GitHub Follow](https://img.shields.io/github/followers/gautam-mh?label=Follow&style=for-the-badge&logo=github&logoColor=white&color=181717)](https://github.com/gautam-mh)
 
 ## 🚀 About Me
 
