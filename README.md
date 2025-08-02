@@ -2,10 +2,10 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Software Developer** and **Technology Enthusiast** with a strong focus on creating innovative solutions across multiple domains. I love building projects that bridge the gap between hardware and software, exploring everything from **IoT systems** to **blockchain integration** and **mobile app development**.
+I'm a passionate **Software Developer** and **Technology Enthusiast** with a strong focus on creating innovative solutions across multiple domains. I love building projects that bridge the gap between hardware and software, exploring everything from **IoT systems** to **blockchain integration**, **machine learning**, and **full-stack web development**.
 
 - 🔭 Currently working on **Wavesense** - A wireless gesture-controlled air mouse using ESP32
-- 🌱 Exploring **Web3.0**, **IoT**, and **Mobile Development**
+- 🌱 Exploring **Web3.0**, **IoT**, **Machine Learning**, and **Full-Stack Development**
 - 💡 Passionate about **Hardware-Software Integration** and **User Experience**
 - 🎯 Always eager to learn new technologies and contribute to impactful projects
 
@@ -33,14 +33,22 @@ I'm a passionate **Software Developer** and **Technology Enthusiast** with a str
 
 ## 🌟 Featured Projects
 
-### 🎛️ [Wavesense](https://github.com/gautam-mh/Wavesense)
-**Wireless Gesture-Controlled Air Mouse**
-- Built with **ESP32 + MPU6050** for motion sensing
-- **PyQt5 GUI** for real-time configuration and feedback
-- **WiFi communication** between hardware and desktop
-- **Real-time gesture recognition** and customizable mappings
+### 🤖 [Research Paper Reviewer – RAG System](https://github.com/gautam-mh/Research-Paper-Reviewer-RAG)
+**Full-Stack Offline Research Paper Q&A Web App**
+- Upload PDFs and ask natural language questions
+- Powered by RAG, LangChain, and local LLMs via Ollama
+- Runs 100% locally and offline for privacy and accessibility
+- Provides domain-specific, source-cited answers instantly
 
-*Technologies: C++, Python, PyQt5, ESP32, IoT*
+*Technologies: Python, React, Next.js, Flask, LangChain, Ollama, FAISS, HuggingFace*
+
+### 📈 [Kickstarter Project Success Prediction](https://github.com/gautam-mh/Kickstarter-Project-Success-Prediction-Using-Machine-Learning)
+**Predict Kickstarter Project Success Before Launch**
+- Machine learning models trained on real Kickstarter data
+- Data analysis, feature engineering, and model evaluation
+- Predicts project success using only pre-launch information
+
+*Technologies: Python, Jupyter Notebook, XGBoost, Random Forest, Pandas, Scikit-learn*
 
 ### 🎵 [Spotify Artist Tree](https://github.com/gautam-mh/Spotify-artist-tree)
 **CLI Tool for Spotify Discography Exploration**
@@ -50,6 +58,15 @@ I'm a passionate **Software Developer** and **Technology Enthusiast** with a str
 - Clean, modular Python architecture with comprehensive testing
 
 *Technologies: Python, Spotify API, CLI Development*
+
+### 🎛️ [Wavesense](https://github.com/gautam-mh/Wavesense)
+**Wireless Gesture-Controlled Air Mouse**
+- Built with **ESP32 + MPU6050** for motion sensing
+- **PyQt5 GUI** for real-time configuration and feedback
+- **WiFi communication** between hardware and desktop
+- **Real-time gesture recognition** and customizable mappings
+
+*Technologies: C++, Python, PyQt5, ESP32, IoT*
 
 ### 🌐 [Ethereum-Integrated React Webpage](https://github.com/gautam-mh/Ethereum-Integrated-React-Webpage)
 **Web3.0 Application with Blockchain Integration**
@@ -69,7 +86,7 @@ I'm a passionate **Software Developer** and **Technology Enthusiast** with a str
 ## 📊 GitHub Stats
 
 <div align="center">
-  
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gautam-mh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautam-mh&layout=compact&langs_count=8&theme=tokyonight"/>
 
@@ -79,6 +96,7 @@ I'm a passionate **Software Developer** and **Technology Enthusiast** with a str
 
 - 🔧 **Hardware-Software Integration**: Building innovative IoT solutions
 - 🌐 **Web3 Development**: Exploring decentralized applications and blockchain technology
+- 🤖 **Machine Learning & AI**: Creating intelligent, data-driven applications
 - 📱 **Mobile Development**: Creating intuitive Android applications
 - 🎵 **API Integration**: Working with various APIs to create useful tools
 - 🤖 **Gesture Recognition**: Advancing human-computer interaction through motion sensing
